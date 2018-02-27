@@ -10,5 +10,6 @@ function pos = gaussnewt(satt, times, steps)
         pos = pos + change;
         
     end
+    condition = cond(Df)
 
 end

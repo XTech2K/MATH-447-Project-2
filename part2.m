@@ -8,4 +8,4 @@ times = [0.07074;
          0.07690;
          0.07242];
 
-quadsolve(satt, times);
+quadsolve(satt, times)
